@@ -1,0 +1,24 @@
+{
+    "name": "rest-odoo",
+    "deps": {
+
+        "rest-common": {
+            "owner": "aramtech", 
+            "repo": "rest-common", 
+            "update_policy": "major", 
+            "version": "0.1.0"
+        },
+        "rest-xmlrpc": {
+            "owner": "aramtech", 
+            "repo": "rest-xmlrpc", 
+            "update_policy": "major", 
+            "version": "0.1.0"
+        }
+    },
+    "private": false,
+    "owner": "aramtech",
+    "hash": "mceSK61TBd2dpFxkKlxQOHm5lOFwyVPEWpy66LglnOU",
+    "version": "0.2.1",
+    "public_repo": false,
+    "description": ""
+}
